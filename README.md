@@ -55,5 +55,7 @@ The project follows a consulting-style approach, combining survey analysis, dash
 - Reinforce the perceived value of promoters within the organization  
 
 ---
+![Service Quality Dashboard](dashboard/<img width="834" height="516" alt="Captura de pantalla 2026-01-31 a la(s) 13 44 17" src="https://github.com/user-attachments/assets/0efc3440-3339-4726-9e8e-ef1a9cf8856a" />
+
 
 
